@@ -18,3 +18,6 @@
 ## CONTROL DE LCD
 
 ## COMINICACION CON SPI 
+
+
+https://github.com/ErickLopC/fpga_xilix/tree/main
