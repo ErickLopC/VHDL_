@@ -1,3 +1,15 @@
+
+
+# CONTENIDO
+1. [ALTERA](#ALTERA)
+2. [XILIX](#XILIX)
+
+
+
+
+# ALTERA
+
+
 # DESARROLLADOS EN VHDL
 
 ## CONTADORES
@@ -19,6 +31,6 @@
 
 ## COMINICACION CON SPI 
 
-
+# XILIX
 
 # [Xilix](https://github.com/ErickLopC/fpga_xilix/tree/main)
