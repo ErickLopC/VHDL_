@@ -35,4 +35,4 @@
 
 # XILIX
 
-# [INSTALACION _XILIX](https://github.com/ErickLopC/VHDL_/tree/main)
+# [INSTALACION _XILIX](https://github.com/ErickLopC/fpga_xilix)
