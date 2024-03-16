@@ -33,4 +33,4 @@
 
 
 
-# [Xilix](https://github.com/ErickLopC/fpga_xilix/tree/main)
+# XILIX
