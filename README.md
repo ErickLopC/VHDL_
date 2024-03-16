@@ -23,7 +23,7 @@
 #### DESPLAZAMIENTO DE IMAGEN
 #### ESCALAMIENTO DE IMAGENES
 #### IMAGENES EN MEMORIA
-#### Mini Animación
+#### MINI ANIMACION
 
 ### CONTROL RS232
 
@@ -31,6 +31,6 @@
 
 ### COMINICACION CON SPI 
 
-# XILIX
+
 
 # [Xilix](https://github.com/ErickLopC/fpga_xilix/tree/main)
